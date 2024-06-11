@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\bin\Debug\net6.0\BookingMeeting.Core.deps.json
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\bin\Debug\net6.0\BookingMeeting.Core.runtimeconfig.json
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\bin\Debug\net6.0\BookingMeeting.Core.dll
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\bin\Debug\net6.0\BookingMeeting.Core.pdb
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\BookingMeeting.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\BookingMeeting.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\BookingMeeting.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\BookingMeeting.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\BookingMeeting.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\BookingMeeting.Core.dll
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\refint\BookingMeeting.Core.dll
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\BookingMeeting.Core.pdb
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\BookingMeeting.Core.genruntimeconfig.cache
+C:\Users\user\source\repos\BookingMeeting\BookingMeeting.Core\obj\Debug\net6.0\ref\BookingMeeting.Core.dll
